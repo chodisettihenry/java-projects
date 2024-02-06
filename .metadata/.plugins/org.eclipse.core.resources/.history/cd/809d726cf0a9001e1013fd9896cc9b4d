@@ -1,0 +1,13 @@
+package springb.java.security.Services;
+
+
+public class Services {
+	
+	
+	public void Services() {
+		System.out.println("this is a services usefull for security");
+	}
+	
+	
+
+}
